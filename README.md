@@ -52,4 +52,74 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
-  <img src="https://upload.wikim
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+</div>
+
+---
+
+## 🧩 Projects That Keep Me Up (In a Good Way)
+
+💡 **KubeGuardian** — Automated Kubernetes cluster monitoring with alerting via Prometheus & Grafana  
+🚀 **InfraStack** — Terraform + Ansible-powered infrastructure provisioning on AWS  
+🐍 **AutoPy** — Python CLI for automating repetitive DevOps tasks  
+🔧 **CI/CD Wizard** — Jenkins pipelines that deploy microservices like magic  
+
+> 🧱 Each project focuses on automation, observability, and zero-downtime deployments.
+
+---
+
+## 💻 Most Used Languages  
+
+<div align="center" style="font-family: monospace;">
+  <p>Shell Script</p>
+  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
+    <div style="background:linear-gradient(90deg,#00b894,#55efc4);width:70%;height:100%;border-radius:10px;"></div>
+  </div>
+  <p>Python</p>
+  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
+    <div style="background:linear-gradient(90deg,#6c5ce7,#a29bfe);width:15%;height:100%;border-radius:10px;"></div>
+  </div>
+  <p>YAML</p>
+  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
+    <div style="background:linear-gradient(90deg,#0984e3,#74b9ff);width:10%;height:100%;border-radius:10px;"></div>
+  </div>
+  <p>JavaScript</p>
+  <div style="background-color:#444;border-radius:10px;width:80%;height:15px;margin:auto;">
+    <div style="background:linear-gradient(90deg,#fdcb6e,#ffeaa7);width:4%;height:100%;border-radius:10px;"></div>
+  </div>
+</div>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/jahnavi-y" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/jahnavinaidana" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/jahnavinaidana" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Fun Section: DevOps Vibes  
+
+```python
+class JahnaviNaidana:
+    def __init__(self):
+        self.role = "Site Reliability Engineer"
+        self.hobbies = ["Automating things", "Fixing broken pipelines", "Learning new DevOps tools"]
+        self.motto = "If it’s not automated, it’s temporary 🚀"
+
+    def say_hi(self):
+        print("Hey there 👋, thanks for visiting my profile!")
+
+me = JahnaviNaidana()
+me.say_hi()
